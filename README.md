@@ -29,13 +29,17 @@ Automatizar a coleta de dados cambiais históricos, eliminando processos manuais
 2. Certifique-se de ter o Python instalado.
 3. Instale as dependências necessárias:
 
-_Bash
-pip install requests pandas openpyxl_
+```python
+Bash
 
+pip install requests pandas openpyxl`
+```
 4. Execute o script:
+``` python
+Bash
 
-_Bash
-python nome_do_seu_arquivo.py_
+python nome_do_seu_arquivo.py
+```
 
 ## 📫 Contato
-Conecte-se comigo no Linkedin: (www.linkedin.com/in/julio-belmiro-219a7b12a)
+Conecte-se comigo no Linkedin: "[Julio Belmiro](www.linkedin.com/in/julio-belmiro-219a7b12a)"
